@@ -1,0 +1,7 @@
+[SettingsProfile]
+CenterIP=127.0.0.1
+CenterName=中控
+CenterPort=8725
+data=(string@btn3)
+oscAddress=radarGroup
+projectName=5g塔吊

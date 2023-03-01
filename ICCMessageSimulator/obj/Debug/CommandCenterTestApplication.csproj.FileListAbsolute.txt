@@ -1,0 +1,12 @@
+G:\Project\Winform Project\CommandCenterTestApplication\obj\Debug\CommandCenterTestApplication.csproj.AssemblyReference.cache
+G:\Project\Winform Project\CommandCenterTestApplication\obj\Debug\CommandCenterTestApplication.Form1.resources
+G:\Project\Winform Project\CommandCenterTestApplication\obj\Debug\CommandCenterTestApplication.Properties.Resources.resources
+G:\Project\Winform Project\CommandCenterTestApplication\obj\Debug\CommandCenterTestApplication.csproj.GenerateResource.cache
+G:\Project\Winform Project\CommandCenterTestApplication\obj\Debug\CommandCenterTestApplication.csproj.CoreCompileInputs.cache
+G:\Project\Winform Project\CommandCenterTestApplication\bin\Debug\CommandCenterTestApplication.exe.config
+G:\Project\Winform Project\CommandCenterTestApplication\bin\Debug\CommandCenterTestApplication.exe
+G:\Project\Winform Project\CommandCenterTestApplication\bin\Debug\CommandCenterTestApplication.pdb
+G:\Project\Winform Project\CommandCenterTestApplication\bin\Debug\BestoryIntelligentControlClientLibrary.dll
+G:\Project\Winform Project\CommandCenterTestApplication\obj\Debug\CommandCenterTestApplication.csproj.CopyComplete
+G:\Project\Winform Project\CommandCenterTestApplication\obj\Debug\CommandCenterTestApplication.exe
+G:\Project\Winform Project\CommandCenterTestApplication\obj\Debug\CommandCenterTestApplication.pdb
